@@ -1,0 +1,71 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 原人の徒然日誌</title>
+        <link>https://genshijin.github.io/posts/</link>
+        <description>Recent content in Posts on 原人の徒然日誌</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <copyright>原人</copyright>
+        <lastBuildDate>Thu, 19 Dec 2019 01:35:51 +0900</lastBuildDate>
+        <atom:link href="https://genshijin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>ショッピングサイトのコピーサイトを作成</title>
+            <link>https://genshijin.github.io/posts/shopping-app/</link>
+            <pubDate>Thu, 19 Dec 2019 01:35:51 +0900</pubDate>
+            
+            <guid>https://genshijin.github.io/posts/shopping-app/</guid>
+            <description>スクールの最終課題にて某フリマアプリのコピーサイトの作成をグループにて作成。 自分の担当は主にテンプレート周り、ユーザー新規登録・SNS認証機能（ローカルのみ） クレジットカード登録と決済機能の実装とそれなりに多かったものの、チーム開発の手法を学ぶ機会になった。
+コピーサイトのため、公開はできないのですが、連絡があればアドレスとログイン用のテストユーザー等ご連絡させていただければと思います。</description>
+            <content type="html"><![CDATA[<p>スクールの最終課題にて某フリマアプリのコピーサイトの作成をグループにて作成。
+自分の担当は主にテンプレート周り、ユーザー新規登録・SNS認証機能（ローカルのみ）
+クレジットカード登録と決済機能の実装とそれなりに多かったものの、チーム開発の手法を学ぶ機会になった。</p>
+<p>コピーサイトのため、公開はできないのですが、連絡があればアドレスとログイン用のテストユーザー等ご連絡させていただければと思います。</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Pythonでブログを作ってみた(Django使用)</title>
+            <link>https://genshijin.github.io/posts/python-blog-test/</link>
+            <pubDate>Thu, 19 Dec 2019 01:20:32 +0900</pubDate>
+            
+            <guid>https://genshijin.github.io/posts/python-blog-test/</guid>
+            <description>スクールの応用カリキュラム終了時に作成したもの。 当時、pythonでブログサイトを作成できるDjangoに関心があったのでDjangoのチュートリアルをなぞって作成してみた。 ということで、非常に簡素な作りですが、Django自体adminページもあり、さながら内部がPythonのWordpressのような感触でした。
+ガッツリ中身を触ったりサービス追加してみたらもっと見えてくるところもあるのでしょうが、当時はそこまで期間がなかったので今後なにか追加があれば記事にしてみたいなぁと思ったり…。
+テストブログのページへ</description>
+            <content type="html"><![CDATA[<p>スクールの応用カリキュラム終了時に作成したもの。
+当時、pythonでブログサイトを作成できるDjangoに関心があったのでDjangoのチュートリアルをなぞって作成してみた。
+ということで、非常に簡素な作りですが、Django自体adminページもあり、さながら内部がPythonのWordpressのような感触でした。</p>
+<p>ガッツリ中身を触ったりサービス追加してみたらもっと見えてくるところもあるのでしょうが、当時はそこまで期間がなかったので今後なにか追加があれば記事にしてみたいなぁと思ったり…。</p>
+<p><a href="https://desolate-peak-93330.herokuapp.com/">テストブログのページへ</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Hugoでサイト制作してみました</title>
+            <link>https://genshijin.github.io/posts/hello/</link>
+            <pubDate>Thu, 19 Dec 2019 00:06:11 +0900</pubDate>
+            
+            <guid>https://genshijin.github.io/posts/hello/</guid>
+            <description>はじめまして、Hugoでサイトを作成してみました。
+はじめたきっかけ 某プログラミングスクールを卒業した当初、はてなブログとポートフォリオサイトを作ろうと考えておりました。 ですが、はてなブログとポートフォリオサイトの２つを管理するって正直なところめんｄ…(ｹﾞﾌﾝｹﾞﾌﾝ
+結局どっちつかずになって共倒れになるのが見えていたので、この際、ブログ兼、ポートフォリオサイトを作ったほうが管理しやすいなと考え、このサイトを立ち上げた次第です。
+苦労したところ 近年、日本語でのブログ記事も多くなり、ググれば参考になる記事がたくさん出てくるので導入自体はそこまで苦労しませんでした。 現在、hugo-uno テーマを使用しておりますが、 後々のことを考慮すると、自作でデザインしたものに置き換えて作成したものを公開していければなと思っております。 取り急ぎHugoを選んで作成したため、知的好奇心からGatsbyで作成しているかもしれません。
+記事数がない間はとりあえず、更新する癖として趣味関連の普通の内容の書いて行くかもしれません。 よければお付き合いいただければと思います。</description>
+            <content type="html"><![CDATA[<p>はじめまして、<strong>Hugo</strong>でサイトを作成してみました。</p>
+<h3 id="heading">はじめたきっかけ</h3>
+<p>某プログラミングスクールを卒業した当初、はてなブログとポートフォリオサイトを作ろうと考えておりました。
+ですが、はてなブログとポートフォリオサイトの２つを管理するって正直なところめんｄ…(ｹﾞﾌﾝｹﾞﾌﾝ</p>
+<p>結局どっちつかずになって共倒れになるのが見えていたので、この際、ブログ兼、ポートフォリオサイトを作ったほうが管理しやすいなと考え、このサイトを立ち上げた次第です。</p>
+<h3 id="heading1">苦労したところ</h3>
+<p>近年、日本語でのブログ記事も多くなり、ググれば参考になる記事がたくさん出てくるので導入自体はそこまで苦労しませんでした。
+現在、<a href="https://github.com/fredrikloch/hugo-uno">hugo-uno</a> テーマを使用しておりますが、
+後々のことを考慮すると、自作でデザインしたものに置き換えて作成したものを公開していければなと思っております。
+取り急ぎHugoを選んで作成したため、知的好奇心からGatsbyで作成しているかもしれません。</p>
+<p>記事数がない間はとりあえず、更新する癖として趣味関連の普通の内容の書いて行くかもしれません。
+よければお付き合いいただければと思います。</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
